@@ -1,0 +1,47 @@
+~~~~  EPIC 1 - Usuario no registrados ~~~~
+
+US# 1.1 Como usuario necesito obtener información sobre tecnologías de la información, lenguajes de programación, tarifas, redes afines, ofertas de trabajo, marca personal, ideas sobre proyectos a realizar
+
+US# 1.2 Como usuario quiero poder reaccionar a la diferente información que la página me presenta
+
+US# 1.3 Como usuario quiero poder compartir la información recibida
+
+US# 1.4 Como usuario quiero poder registrarme
+
+--------------------------------------------
+
+~~~~ EPIC 2 - Usuario registrados ~~~~
+
+US# 2.1 Como usuario me gustaría poder realizar comentarios
+
+US# 2.2 Como usuario me gustaría acceder a los cursos, bootcamps, y diferentes links de contacto disponibles, ofertas de trabajo, canales, redes
+
+US# 2.3 Como usuario me gustaría poder editar los datos de mi perfil: nombre, contraseña, foto, datos de contacto (linkedin)
+
+US# 2.4 Como usuario quiero poder desloguearme
+
+US# 2.5 Como usuario quiero poder recibir información relacionada por e-mail (newsletter)
+
+US# 2.6 Como usuario quiero informarme sobre las reglas de comportamiento dentro del sitio
+
+US# 2.7 Como usuario registrado quiero recibir una confirmación acerca de mi registro
+
+US# 2.8 Como usuario registrado quiero que dicha confirmación incluya noticias sobre cursos gratuitos recientes
+
+US# 2.9 Como usuario registrado quiero poder denunciar comentarios que no cumplan con la reglamentación del sitio
+
+--------------------------------------------
+
+~~~~ EPIC 3 - Admin ~~~~
+
+US# 3.1 Como administrador quiero poder loguearme
+
+US# 3.2 Como administrador quiero poder crear contenido en las diferentes secciones
+
+US# 3.2 Como administrador quiero poder editar contenido en las diferentes secciones
+
+US# 3.3 Como administrador quiero poder editar comentarios de los usuarios registrados
+
+US# 3.4 Como administrador quiero poder sancionar usuarios por no cumplir con las reglas de comportamiento del sitio
+
+US# 3.5 Como administrador necesito poder desloguearme
